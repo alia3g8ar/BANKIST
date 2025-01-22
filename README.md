@@ -17,7 +17,7 @@
 
 ## 🔗💵 Project Link  
 
-To view the live project, click on this [link](https://popcorn-six-orcin.vercel.app/).  
+To view the live project, click on this [link](https://bankist-alia3g8ar.vercel.app/).  
 
 
 ## 💵📄 Technologies Used  

@@ -2,7 +2,7 @@
 
 "A responsive web app template for a banking organization."
 
-## 💵🌟 Features  
+## 🌟💵 Features  
 
 - Modal 
 - Reveal sections when scrolling with the Intersection Observer API  
@@ -15,7 +15,7 @@
  
 
 
-## 🔗💵 Project Link  
+## 🔗 Project Link 👁👁 
 
 To view the live project, click on this [link](https://bankist-alia3g8ar.vercel.app/).  
 
